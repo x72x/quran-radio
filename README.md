@@ -14,15 +14,13 @@
 
 <b>4 - Install ffmpeg :</b> <code>sudo apt install ffmpeg</code>
 
-<b>5 - Install git & unzip :</b> <code>sudo apt install git && sudo apt-get install unzip</code>
+<b>5 - Install git :</b> <code>sudo apt install git</code>
 
 <b>6 - Clone the repo :</b> <code>git clone https://github.com/x72x/quran-radio</code>
 
-<b>7 - Unzip quran-radio.zip :</b> <code>unzip quran-radio.zip</code>
+<b>7 - Open the directory :</b> <code>cd quran-radio</code>
 
-<b>8 - Open the directory :</b> <code>cd quran-radio</code>
-
-<b>9 - Edit the config : 
+<b>8 - Edit the config : 
     - Go to config.py
     - Enter the values between double equotes
 </b>
